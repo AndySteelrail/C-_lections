@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "A:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "a:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "A:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "A:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "a:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "A:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "a:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "A:\\Scripts\\Обучение.C#\\Знакомство с языками программирования\\C#_лекции\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"
